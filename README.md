@@ -1,2 +1,2 @@
 # rubyauth
-This is an attemp to code a SSO app in ruby
+This is an attempt to write a basic SSO app in ruby
